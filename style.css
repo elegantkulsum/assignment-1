@@ -87,3 +87,47 @@ a.donate-btn {
     margin-bottom: 35px;
     color: #f3f3f3;
 }
+
+/***OUR DONATION SECTION START***/
+.donate-half.cng_color p {
+    color: #2c2c2c;
+}
+
+.our-donate-plan img {
+    width: 20%;
+    height: 22%;
+    padding: 14px;
+    box-shadow: 1px 0px 6px #1d1d1d87;
+    border: 1px solid #f7505ab5;
+    border-radius: 5px;
+}
+
+#donate-box-gap {
+    margin-top: 50px;
+}
+
+.our-donate-plan h3 {
+    margin: 15px 0px;
+}
+
+.our-donate-plan {
+    background-color: #40e0d0;
+    margin: 0px 10px;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px #cfcfcf;
+    border-top: 2px solid #f7505a;
+}
+
+.donate-amount.active h3 {
+    color: #f3f3f3;
+}
+
+.donate-amount h3 {
+    color: #f3f3f3;
+}
+
+.donate-amount.active {
+    background-color: #f7505a;
+    box-shadow: 2px 3px 2px #222a33;
+}
