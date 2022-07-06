@@ -162,3 +162,32 @@ input.amount-field {
     border-bottom: 1px solid #ccc;
     background-color: transparent;
 }
+
+/***-NEED TO SERVIVE SECTION START***/
+div.servive-half p {
+    color: #222a33;
+    padding-right: 22px;
+}
+
+p.first-p {
+    margin-top: 20px;
+}
+
+p.second-p {
+    margin-bottom: 35px;
+}
+
+.servive-half img {
+    width: 80%;
+    box-shadow: -3px -3px 1px #f7505a;
+    border-radius: 10px;
+}
+
+.servive-half {
+    width: 48%;
+    padding-left: 5%;
+}
+
+.servive-half {
+    padding-left: 5%;
+}
