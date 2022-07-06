@@ -197,6 +197,20 @@ p.second-p {
     padding-left: 5%;
 }
 
+/***CURRENT SITUATION SECTION START***/
+.current-situation {
+    width: 23%;
+    margin: auto;
+    border: 10px solid #fff;
+}
+
+img {}
+
+.current-situation img {
+    width: 100%;
+    border-radius: 10px;
+}
+
 /***GET MY UPDATES SECTION START***/
 div.bg-color {
     background-color: #40e0d0;
