@@ -191,3 +191,30 @@ p.second-p {
 .servive-half {
     padding-left: 5%;
 }
+
+/***GET MY UPDATES SECTION START***/
+div.bg-color {
+    background-color: #40e0d0;
+    height: 200px;
+    width: 50%;
+    margin: auto;
+    border-radius: 40px 0px;
+}
+
+.button {
+    background-color: #f7505a;
+    border: none;
+    padding: 13px 10px;
+    color: #fff;
+    border-radius: 0px 5px 5px 0px;
+}
+
+input.email {
+    background-color:
+        transparent;
+    border: 1px solid #f7505a;
+    padding: 12px 10px;
+    color: #fff;
+    border-radius: 5px 0px 0px 5px;
+    margin-right: -10px;
+}
