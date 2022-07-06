@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 60px;
     margin: 0px;
     color: #f3f3f3;
 }
@@ -36,6 +36,7 @@ p {
     font-size: 18px;
     margin: 0px;
     color: #1f1f1f;
+    line-height: 30px;
 }
 
 span {
@@ -66,7 +67,6 @@ section.donate-plan {
 
 .donate-half span {
     color: #f7505a;
-    font-size: 55px;
 }
 
 .donate-half {
@@ -78,7 +78,7 @@ a.donate-btn {
     text-decoration: none;
     background-color: #f7505a;
     color: #fff;
-    padding: 10px 20px;
+    padding: 15px 20px;
     border-radius: 5px;
 }
 
@@ -110,13 +110,18 @@ a.donate-btn {
     margin: 15px 0px;
 }
 
+.our-donate-plan p {
+    padding: 0px 30px;
+}
+
 .our-donate-plan {
     background-color: #40e0d0;
-    margin: 0px 10px;
-    padding: 25px;
+    padding: 60px 25px;
     border-radius: 10px;
     box-shadow: 0px 0px 5px #cfcfcf;
     border-top: 2px solid #f7505a;
+    width: 28%;
+    margin: auto;
 }
 
 .donate-amount.active h3 {
@@ -140,11 +145,11 @@ section#bg-color {
 
 .donate-amount {
     width: 20%;
-    background-color: #222a33;
-    padding: 30px 0px;
+    background: #222a33;
+    padding: 40px 0px;
     margin: auto;
     color: #fff;
-    box-shadow: 2px 2px 2px #f7505a;
+    box-shadow: 2px 2px 3px #f7505a;
     border-radius: 6px;
 }
 
@@ -155,7 +160,7 @@ div.donate-halfs {
 
 input.amount-field {
     width: 100%;
-    margin-bottom: 40px;
+    margin-bottom: 55px;
     border: none;
     padding-bottom: 10px;
     text-align: center;
@@ -174,7 +179,7 @@ p.first-p {
 }
 
 p.second-p {
-    margin-bottom: 35px;
+    margin-bottom: 40px;
 }
 
 .servive-half img {
@@ -204,7 +209,7 @@ div.bg-color {
 .button {
     background-color: #f7505a;
     border: none;
-    padding: 13px 10px;
+    padding: 16px 10px;
     color: #fff;
     border-radius: 0px 5px 5px 0px;
 }
@@ -213,10 +218,11 @@ input.email {
     background-color:
         transparent;
     border: 1px solid #f7505a;
-    padding: 12px 10px;
+    padding: 15px 10px;
     color: #fff;
     border-radius: 5px 0px 0px 5px;
     margin-right: -10px;
+    width: 75%;
 }
 
 /***FOOTER SECTION START***/
